@@ -1,4 +1,4 @@
-# Webscale
+# Webscale [![Gem Version](https://badge.fury.io/rb/webscale.svg)](https://badge.fury.io/rb/lumbersexual) ![](http://ruby-gem-downloads-badge.herokuapp.com/webscale?type=total)
 
 Install this gem and it'll shard you SOA like nobody's business. Deprecates MongoDB for RethinkDB, and finally follows the money to node.js, after initial misgivings and pride.
 
